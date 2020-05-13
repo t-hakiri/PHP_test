@@ -17,8 +17,7 @@
           
           <h3 class="font-weight-bold mb-4">Material Design Blocks</h3>
 
-          <p>Lorem ipsum dolor sit amet consectetur adip elit. Maiores deleniti explicabo voluptatem quisquam nulla asperiores aspernatur aperiam voluptate et consectetur minima delectus, fugiat eum soluta blanditiis adipisci, velit dolore magnam.</p>
-
+          <p>Lorem ipsum dolor sit amet consectetur adip elit. Maiores deleniti explicabo voluptatem quisquam nulla asperiores aspernatur aperiam voluptate et consectetur minima delectus, fugiat 
           <button type="button" class="btn btn-orange btn-rounded mx-0">Download</button>
 
         </div>
