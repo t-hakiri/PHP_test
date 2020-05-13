@@ -22,7 +22,5 @@
     </div>
 
   </section>
-  <!--Section: Content-->
-
 
 </div>
