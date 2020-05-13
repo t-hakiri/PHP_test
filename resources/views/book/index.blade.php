@@ -1,6 +1,4 @@
 <div class="container my-5 z-depth-1">
-
-
   <!--Section: Content-->
   <section class="dark-grey-text">
 
@@ -20,7 +18,6 @@
         </div>
       </div>
     </div>
-
   </section>
 
 </div>
